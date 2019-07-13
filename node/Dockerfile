@@ -13,3 +13,4 @@ COPY . /home/app
 RUN npm run build
 
 CMD ./scripts/start.sh
+
